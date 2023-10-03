@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/tela-principal.PNG)
 
-<h4 align="center"><a href="https://ruan1araujo.github.io/portfolio-ruan/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://portfolio-do-ruan-araujo.netlify.app/">Confira o projeto aqui</a></h4>
 
 ---
 
