@@ -54,5 +54,5 @@ Neste projeto apliquei os seguintes pontos:
 ## 🏆 Licença
 
 The [MIT License](./LICENSE).
-# meu-portfolio
+
 # dev-ruan-araujo-portfolio
