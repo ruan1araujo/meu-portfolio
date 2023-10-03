@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/tela-principal.PNG)
 
-<h4 align="center"><a href="https://portfolio-do-ruan-araujo.netlify.app/" target="_blank" title="Portfolio">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://www.dev-ruan-araujo.com.br" target="_blank" title="Portfolio">Confira o projeto aqui</a></h4>
 
 ---
 
