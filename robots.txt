@@ -1,0 +1,7 @@
+Agente do usuário: Googlebot
+Proibir: /nogooglebot/
+
+Agente de usuário: *
+Permitir: /
+
+Mapa do site: https://www.dev-ruan-araujo/sitemap.xml
