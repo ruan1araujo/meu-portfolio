@@ -1,7 +1,7 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
+Agente do usuário: Googlebot
+Proibir: /nogooglebot/
 
-User-agent: *
-Allow: /
+Agente de usuário: *
+Permitir: /
 
-Sitemap: https://www.dev-ruan-araujo/sitemap.xml
+Mapa do site: https://www.dev-ruan-araujo/sitemap.xml
